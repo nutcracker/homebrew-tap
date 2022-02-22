@@ -1,7 +1,7 @@
 # homebrew-tap
 Homebrew tap for OpenSSL 1.0 (1.0.2u)
 
-# openssl@1.0.rb Formula
+# openssl@1.0 Formula
 
 This updates the formula from OpenSSL 1.0.2t to the latest 1.0.2u.
 
